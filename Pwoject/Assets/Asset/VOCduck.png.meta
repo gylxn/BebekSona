@@ -1,0 +1,694 @@
+fileFormatVersion: 2
+guid: 961ffcfd724483f4fbdcf6a1a5e75359
+timeCreated: 1527855287
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: VOCduck_0
+    21300002: VOCduck_1
+    21300004: VOCduck_2
+    21300006: VOCduck_3
+    21300008: VOCduck_4
+    21300010: VOCduck_5
+    21300012: VOCduck_6
+    21300014: VOCduck_7
+    21300016: VOCduck_8
+    21300018: VOCduck_9
+    21300020: VOCduck_10
+    21300022: VOCduck_11
+    21300024: VOCduck_12
+    21300026: VOCduck_13
+    21300028: VOCduck_14
+    21300030: VOCduck_15
+    21300032: VOCduck_16
+    21300034: VOCduck_17
+    21300036: VOCduck_18
+    21300038: VOCduck_19
+    21300040: VOCduck_20
+    21300042: VOCduck_21
+    21300044: VOCduck_22
+    21300046: VOCduck_23
+    21300048: VOCduck_24
+    21300050: VOCduck_25
+    21300052: VOCduck_26
+    21300054: VOCduck_27
+    21300056: VOCduck_28
+    21300058: VOCduck_29
+    21300060: VOCduck_30
+    21300062: VOCduck_31
+    21300064: VOCduck_32
+    21300066: VOCduck_33
+    21300068: VOCduck_34
+    21300070: VOCduck_35
+    21300072: VOCduck_36
+    21300074: VOCduck_37
+    21300076: VOCduck_38
+    21300078: VOCduck_39
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VOCduck_0
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 3591
+        width: 344
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VOCduck_1
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 3591
+        width: 348
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VOCduck_2
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 3591
+        width: 361
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VOCduck_3
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 3591
+        width: 370
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VOCduck_4
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 3591
+        width: 378
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VOCduck_5
+      rect:
+        serializedVersion: 2
+        x: 2813
+        y: 3591
+        width: 372
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VOCduck_6
+      rect:
+        serializedVersion: 2
+        x: 3367
+        y: 3591
+        width: 362
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VOCduck_7
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 3085
+        width: 356
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VOCduck_8
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 3085
+        width: 348
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VOCduck_9
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 3085
+        width: 338
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VOCduck_10
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 3085
+        width: 350
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VOCduck_11
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 3085
+        width: 354
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VOCduck_12
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 3085
+        width: 372
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VOCduck_13
+      rect:
+        serializedVersion: 2
+        x: 3367
+        y: 3085
+        width: 392
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VOCduck_14
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 2577
+        width: 406
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VOCduck_15
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 2577
+        width: 424
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VOCduck_16
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 2577
+        width: 426
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VOCduck_17
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 2576
+        width: 426
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VOCduck_18
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 2575
+        width: 428
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VOCduck_19
+      rect:
+        serializedVersion: 2
+        x: 2819
+        y: 2575
+        width: 426
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VOCduck_20
+      rect:
+        serializedVersion: 2
+        x: 3371
+        y: 2575
+        width: 426
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VOCduck_21
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 2067
+        width: 424
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VOCduck_22
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 2067
+        width: 422
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VOCduck_23
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 2067
+        width: 418
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VOCduck_24
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 2067
+        width: 418
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VOCduck_25
+      rect:
+        serializedVersion: 2
+        x: 2285
+        y: 2067
+        width: 422
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VOCduck_26
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 2069
+        width: 428
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VOCduck_27
+      rect:
+        serializedVersion: 2
+        x: 3321
+        y: 2069
+        width: 432
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VOCduck_28
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1563
+        width: 436
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VOCduck_29
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1563
+        width: 442
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VOCduck_30
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 1563
+        width: 422
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VOCduck_31
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 1563
+        width: 402
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VOCduck_32
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 1563
+        width: 382
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VOCduck_33
+      rect:
+        serializedVersion: 2
+        x: 2821
+        y: 1563
+        width: 358
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VOCduck_34
+      rect:
+        serializedVersion: 2
+        x: 3391
+        y: 1563
+        width: 344
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VOCduck_35
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1057
+        width: 342
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VOCduck_36
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1057
+        width: 342
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VOCduck_37
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 1057
+        width: 344
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VOCduck_38
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 1057
+        width: 342
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VOCduck_39
+      rect:
+        serializedVersion: 2
+        x: 2301
+        y: 1056
+        width: 344
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

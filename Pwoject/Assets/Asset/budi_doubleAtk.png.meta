@@ -1,0 +1,619 @@
+fileFormatVersion: 2
+guid: d33c975cce78b5f4592c127f4d206c42
+timeCreated: 1527827617
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: budi_doubleAtk_0
+    21300002: budi_doubleAtk_1
+    21300004: budi_doubleAtk_2
+    21300006: budi_doubleAtk_3
+    21300008: budi_doubleAtk_4
+    21300010: budi_doubleAtk_5
+    21300012: budi_doubleAtk_6
+    21300014: budi_doubleAtk_7
+    21300016: budi_doubleAtk_8
+    21300018: budi_doubleAtk_9
+    21300020: budi_doubleAtk_10
+    21300022: budi_doubleAtk_11
+    21300024: budi_doubleAtk_12
+    21300026: budi_doubleAtk_13
+    21300028: budi_doubleAtk_14
+    21300030: budi_doubleAtk_15
+    21300032: budi_doubleAtk_16
+    21300034: budi_doubleAtk_17
+    21300036: budi_doubleAtk_18
+    21300038: budi_doubleAtk_19
+    21300040: budi_doubleAtk_20
+    21300042: budi_doubleAtk_21
+    21300044: budi_doubleAtk_22
+    21300046: budi_doubleAtk_23
+    21300048: budi_doubleAtk_24
+    21300050: budi_doubleAtk_25
+    21300052: budi_doubleAtk_26
+    21300054: budi_doubleAtk_27
+    21300056: budi_doubleAtk_28
+    21300058: budi_doubleAtk_29
+    21300060: budi_doubleAtk_30
+    21300062: budi_doubleAtk_31
+    21300064: budi_doubleAtk_32
+    21300066: budi_doubleAtk_33
+    21300068: budi_doubleAtk_34
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: budi_doubleAtk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3734
+        width: 310
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: budi_doubleAtk_1
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 3737
+        width: 310
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: budi_doubleAtk_2
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 3737
+        width: 317
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: budi_doubleAtk_3
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 3734
+        width: 315
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: budi_doubleAtk_4
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 3737
+        width: 290
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: budi_doubleAtk_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3379
+        width: 325
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: budi_doubleAtk_6
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 3379
+        width: 340
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: budi_doubleAtk_7
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 3376
+        width: 351
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: budi_doubleAtk_8
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 3379
+        width: 358
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: budi_doubleAtk_9
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 3377
+        width: 375
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: budi_doubleAtk_10
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3018
+        width: 358
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: budi_doubleAtk_11
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 3018
+        width: 351
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: budi_doubleAtk_12
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 3018
+        width: 340
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: budi_doubleAtk_13
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 3016
+        width: 328
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: budi_doubleAtk_14
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 3019
+        width: 317
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: budi_doubleAtk_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2658
+        width: 328
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: budi_doubleAtk_16
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2661
+        width: 345
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: budi_doubleAtk_17
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 2661
+        width: 353
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: budi_doubleAtk_18
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 2661
+        width: 361
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: budi_doubleAtk_19
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 2661
+        width: 373
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: budi_doubleAtk_20
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2301
+        width: 359
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: budi_doubleAtk_21
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 2300
+        width: 349
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: budi_doubleAtk_22
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 2301
+        width: 340
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: budi_doubleAtk_23
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 2301
+        width: 328
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: budi_doubleAtk_24
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 2300
+        width: 313
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: budi_doubleAtk_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1943
+        width: 324
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: budi_doubleAtk_26
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1942
+        width: 325
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: budi_doubleAtk_27
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1943
+        width: 325
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: budi_doubleAtk_28
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 1942
+        width: 321
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: budi_doubleAtk_29
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 1943
+        width: 316
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: budi_doubleAtk_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1582
+        width: 311
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: budi_doubleAtk_31
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1582
+        width: 310
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: budi_doubleAtk_32
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1584
+        width: 314
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: budi_doubleAtk_33
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 1585
+        width: 314
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: budi_doubleAtk_34
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 1585
+        width: 309
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
